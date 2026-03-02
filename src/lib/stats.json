@@ -1,0 +1,205 @@
+{
+  "totalSeconds": 1535190,
+  "totalHours": 426.4,
+  "totalDays": 17.8,
+  "topDays": [
+    {
+      "date": "2025-08-15",
+      "formattedDate": "August 15, 2025",
+      "hours": 6.1,
+      "videoCount": 232
+    },
+    {
+      "date": "2025-08-30",
+      "formattedDate": "August 30, 2025",
+      "hours": 6.1,
+      "videoCount": 178
+    },
+    {
+      "date": "2025-05-25",
+      "formattedDate": "May 25, 2025",
+      "hours": 5.3,
+      "videoCount": 225
+    },
+    {
+      "date": "2025-06-23",
+      "formattedDate": "June 23, 2025",
+      "hours": 5.3,
+      "videoCount": 189
+    },
+    {
+      "date": "2025-09-01",
+      "formattedDate": "September 1, 2025",
+      "hours": 5.0,
+      "videoCount": 206
+    }
+  ],
+  "topCreators": [
+    {
+      "name": "xiandivyne",
+      "count": 276
+    },
+    {
+      "name": "jamellebouie",
+      "count": 188
+    },
+    {
+      "name": "yourfiresignbestie",
+      "count": 88
+    },
+    {
+      "name": "tellthebeees",
+      "count": 79
+    },
+    {
+      "name": "dimension20",
+      "count": 70
+    }
+  ],
+  "topClusters": [
+    {
+      "label": "Food",
+      "count": 664,
+      "pct": 26.5
+    },
+    {
+      "label": "Gaming",
+      "count": 560,
+      "pct": 22.4
+    },
+    {
+      "label": "NYC",
+      "count": 473,
+      "pct": 18.9
+    },
+    {
+      "label": "D&D",
+      "count": 422,
+      "pct": 16.9
+    },
+    {
+      "label": "Trump",
+      "count": 382,
+      "pct": 15.3
+    }
+  ],
+  "genreOverTime": [
+    {
+      "month": "2025-03",
+      "genres": {
+        "D&D": 9,
+        "Food": 46,
+        "Gaming": 66,
+        "NYC": 6,
+        "Trump": 16
+      }
+    },
+    {
+      "month": "2025-04",
+      "genres": {
+        "D&D": 72,
+        "Food": 80,
+        "Gaming": 148,
+        "NYC": 42,
+        "Trump": 64
+      }
+    },
+    {
+      "month": "2025-05",
+      "genres": {
+        "D&D": 70,
+        "Food": 151,
+        "Gaming": 83,
+        "NYC": 112,
+        "Trump": 44
+      }
+    },
+    {
+      "month": "2025-06",
+      "genres": {
+        "D&D": 50,
+        "Food": 79,
+        "Gaming": 50,
+        "NYC": 63,
+        "Trump": 32
+      }
+    },
+    {
+      "month": "2025-07",
+      "genres": {
+        "D&D": 58,
+        "Food": 63,
+        "Gaming": 35,
+        "NYC": 53,
+        "Trump": 34
+      }
+    },
+    {
+      "month": "2025-08",
+      "genres": {
+        "D&D": 19,
+        "Food": 57,
+        "Gaming": 18,
+        "NYC": 36,
+        "Trump": 25
+      }
+    },
+    {
+      "month": "2025-09",
+      "genres": {
+        "D&D": 56,
+        "Food": 44,
+        "Gaming": 14,
+        "NYC": 46,
+        "Trump": 48
+      }
+    },
+    {
+      "month": "2025-10",
+      "genres": {
+        "D&D": 15,
+        "Food": 54,
+        "Gaming": 43,
+        "NYC": 48,
+        "Trump": 36
+      }
+    },
+    {
+      "month": "2025-11",
+      "genres": {
+        "D&D": 27,
+        "Food": 42,
+        "Gaming": 34,
+        "NYC": 35,
+        "Trump": 36
+      }
+    },
+    {
+      "month": "2025-12",
+      "genres": {
+        "D&D": 19,
+        "Food": 11,
+        "Gaming": 23,
+        "NYC": 17,
+        "Trump": 13
+      }
+    },
+    {
+      "month": "2026-01",
+      "genres": {
+        "D&D": 27,
+        "Food": 37,
+        "Gaming": 46,
+        "NYC": 15,
+        "Trump": 34
+      }
+    }
+  ],
+  "topGenres": [
+    "Food",
+    "Gaming",
+    "NYC",
+    "D&D",
+    "Trump"
+  ]
+}

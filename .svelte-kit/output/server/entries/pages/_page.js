@@ -1,0 +1,24 @@
+const totalSeconds = 1535190;
+const totalHours = 426.4;
+const totalDays = 17.8;
+const topDays = [{ "date": "2025-08-15", "formattedDate": "August 15, 2025", "hours": 6.1, "videoCount": 232 }, { "date": "2025-08-30", "formattedDate": "August 30, 2025", "hours": 6.1, "videoCount": 178 }, { "date": "2025-05-25", "formattedDate": "May 25, 2025", "hours": 5.3, "videoCount": 225 }, { "date": "2025-06-23", "formattedDate": "June 23, 2025", "hours": 5.3, "videoCount": 189 }, { "date": "2025-09-01", "formattedDate": "September 1, 2025", "hours": 5, "videoCount": 206 }];
+const topCreators = [{ "name": "xiandivyne", "count": 276 }, { "name": "jamellebouie", "count": 188 }, { "name": "yourfiresignbestie", "count": 88 }, { "name": "tellthebeees", "count": 79 }, { "name": "dimension20", "count": 70 }];
+const topClusters = [{ "label": "#fyp", "count": 664, "pct": 26.5 }, { "label": "#gaming", "count": 560, "pct": 22.4 }, { "label": "#nyc", "count": 473, "pct": 18.9 }, { "label": "#dnd", "count": 422, "pct": 16.9 }, { "label": "#politics", "count": 382, "pct": 15.3 }];
+const genreOverTime = [{ "month": "2025-03", "genres": { "#dnd": 9, "#fyp": 46, "#gaming": 66, "#nyc": 6, "#politics": 16 } }, { "month": "2025-04", "genres": { "#dnd": 72, "#fyp": 80, "#gaming": 148, "#nyc": 42, "#politics": 64 } }, { "month": "2025-05", "genres": { "#dnd": 70, "#fyp": 151, "#gaming": 83, "#nyc": 112, "#politics": 44 } }, { "month": "2025-06", "genres": { "#dnd": 50, "#fyp": 79, "#gaming": 50, "#nyc": 63, "#politics": 32 } }, { "month": "2025-07", "genres": { "#dnd": 58, "#fyp": 63, "#gaming": 35, "#nyc": 53, "#politics": 34 } }, { "month": "2025-08", "genres": { "#dnd": 19, "#fyp": 57, "#gaming": 18, "#nyc": 36, "#politics": 25 } }, { "month": "2025-09", "genres": { "#dnd": 56, "#fyp": 44, "#gaming": 14, "#nyc": 46, "#politics": 48 } }, { "month": "2025-10", "genres": { "#dnd": 15, "#fyp": 54, "#gaming": 43, "#nyc": 48, "#politics": 36 } }, { "month": "2025-11", "genres": { "#dnd": 27, "#fyp": 42, "#gaming": 34, "#nyc": 35, "#politics": 36 } }, { "month": "2025-12", "genres": { "#dnd": 19, "#fyp": 11, "#gaming": 23, "#nyc": 17, "#politics": 13 } }, { "month": "2026-01", "genres": { "#dnd": 27, "#fyp": 37, "#gaming": 46, "#nyc": 15, "#politics": 34 } }];
+const topGenres = ["#fyp", "#gaming", "#nyc", "#dnd", "#politics"];
+const stats = {
+  totalSeconds,
+  totalHours,
+  totalDays,
+  topDays,
+  topCreators,
+  topClusters,
+  genreOverTime,
+  topGenres
+};
+function load() {
+  return { stats };
+}
+export {
+  load
+};
